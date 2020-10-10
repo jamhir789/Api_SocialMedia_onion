@@ -1,0 +1,16 @@
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+F:\visual studio\Erick\SocialMedina\SocialMedina.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+F:\visual studio\Erick\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
